@@ -1,13 +1,13 @@
 digraph Tree {
 node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
 edge [fontname="helvetica"] ;
-0 [label="tamanho_pétala <= 5.034\ngini = 0.667\nsamples = 112\nvalue = [37, 37, 38]\nclass = tulipa", fillcolor="#fdfcff"] ;
-1 [label="tamanho_pétala <= 2.527\ngini = 0.5\nsamples = 74\nvalue = [37, 37, 0]\nclass = lírio", fillcolor="#ffffff"] ;
+0 [label="tamanho_pétala <= 2.535\ngini = 0.663\nsamples = 112\nvalue = [40, 40, 32]\nclass = lírio", fillcolor="#ffffff"] ;
+1 [label="gini = 0.0\nsamples = 40\nvalue = [0, 40, 0]\nclass = rosa", fillcolor="#39e581"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.0\nsamples = 37\nvalue = [0, 37, 0]\nclass = rosa", fillcolor="#39e581"] ;
-1 -> 2 ;
-3 [label="gini = 0.0\nsamples = 37\nvalue = [37, 0, 0]\nclass = lírio", fillcolor="#e58139"] ;
-1 -> 3 ;
-4 [label="gini = 0.0\nsamples = 38\nvalue = [0, 0, 38]\nclass = tulipa", fillcolor="#8139e5"] ;
-0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2 [label="tamanho_pétala <= 5.014\ngini = 0.494\nsamples = 72\nvalue = [40, 0, 32]\nclass = lírio", fillcolor="#fae6d7"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="gini = 0.0\nsamples = 40\nvalue = [40, 0, 0]\nclass = lírio", fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 32\nvalue = [0, 0, 32]\nclass = tulipa", fillcolor="#8139e5"] ;
+2 -> 4 ;
 }
