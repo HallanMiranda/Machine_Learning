@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 O projeto visa um ensaio de machine learning. Através treinos e testes, buscamos as melhores modelos e metricas abordados. A colaboração e participação são bem-vindas, pois juntos podemos enfatize a importância da colaboração na comunidade do GitHub.
 
 Detalhes do Projeto:
@@ -57,3 +58,10 @@ Junte-se a nós nessa jornada de aprimoramento contínuo na aplicação de Machi
 [Allan Miranda]
 
 
+=======
+# Machine_Learning curso de fundamentos de ml.
+ Ensaios de modelos de:
+ classificação, regressão e clusters 
+
+ensaios de train/validação e teste
+>>>>>>> e94a5387cc408bc017660b515b9adf8e6f8880c6
