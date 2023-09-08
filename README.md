@@ -1,4 +1,4 @@
-# 🚀 Explorando o Mundo do Machine Learning 🤖
+já# 🚀 Explorando o Mundo do Machine Learning 🤖
 
 Bem-vindo ao meu repositório "Explorando o Mundo do Machine Learning". Este é um ensaio de Machine Learning com alguns modelos de: classificação, regressão, cluster e agrupamento.
 O projeto visa um ensaio de machine learning. Através treinos, validação e testes, buscamos as melhores modelos e metricas abordadas. Exploramos alguns ajuste dos parâmetros para entender como afeta o desempenho e o equilíbrio entre overfitting e underfitting.
@@ -51,6 +51,6 @@ Foi criado três tabelas distintas, cada uma exibindo o desempenho dos algoritmo
 Este ensaio de Machine Learning ampliou nosso entendimento sobre o comportamento de algoritmos de classificação, regressão e clusterização. Identificamos os principais parâmetros de controle entre os estados de underfitting e overfitting, fornecendo valiosas lições para futuros projetos.
 
 ## Próximos Passos:
-Como próximos passos, planejamos explorar novos algoritmos de Machine Learning e aplicá-los a diferentes conjuntos de dados para aprimorar ainda mais nosso conhecimento e expertise.
+Como próximos passos, planejamos explorar novos algoritmos e parâmetros dos modelos de Machine Learning e aplicá-los a diferentes conjuntos de dados para aprimorar ainda mais nosso conhecimento e expertise.
 
 
