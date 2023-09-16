@@ -34,6 +34,7 @@ Foi utilizadas diversas métricas de desempenho para avaliar cada algoritmo.
 Foi criado três tabelas distintas, cada uma exibindo o desempenho dos algoritmos sobre um conjunto específico de dados:
 
 ## Em Breve posto
+(As tabelas com os resultados obtidos e os parametros usados em cada modelo)
 
 1. Tabela de Desempenho de Classificação:
    - Algoritmos: KNN, Decision Tree, Random Forest e Logistic Regression
